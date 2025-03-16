@@ -1,4 +1,4 @@
-# ProMetric-
+# ProMetric
 # Mixture of Expert Models for Multi-Class Brain Disease Classification Using MRI
 
 ## Overview
